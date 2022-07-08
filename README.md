@@ -1,3 +1,3 @@
 # examen_integrador
 
-Sebastian
+Andres Sebastian Rey Prada
